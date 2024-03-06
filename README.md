@@ -11,13 +11,14 @@ You can look at the bottom of this file, if you have not yet done basic git conf
 4. What does the output from git status look like now?
 5. add the file to the staging area
 6. How does git status look now?
-commit the file to the repository
-How does git status look now?
-Change the content of the file you created earlier
-What does git status look like now?
-add the file change
-What does git status look like now?
-Change the file again
-Make a commit
-What does the status look like now? The log?
-Add and commit the newest change
+7. commit the file to the repository
+8.	How does git status look now?
+9.	Change the content of the file you created earlier
+10.	What does git status look like now?
+11.	add the file change
+12.	What does git status look like now?
+13.	Change the file again
+14.	Make a commit
+15.	What does the status look like now? The log?
+16.	Add and commit the newest change
+
