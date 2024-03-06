@@ -5,7 +5,7 @@ This  will introduce you to the git add and git commit commands.
 You can look at the bottom of this file, if you have not yet done basic git configuration.
 
 # The task
-1. Use git status to see which branch you are on.
+1. Use `git status` to see which branch you are on.
 2. What does git log look like?
 3. Create a file
 4. What does the output from git status look like now?
