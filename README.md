@@ -37,16 +37,5 @@ You can look at the bottom of this file, if you have not yet done basic git conf
 
 
 ## Git Initial Configuration
-1. `git config --global user.name "John Doe"`
-1. `git config --global user.email "johndoe@example.com`
-
-For the vim scared:
-- `git config --global core.editor nano`
-
-For the windows peeps:
-- `git config --global core.editor notepad`
-
-Other editor options:
-- `git config --global core.editor "atom --wait"`
-- `git config --global core.editor "code --wait"`
-- `git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst"`
+1. `git config --global user.name "USN"`
+2. `git config --global user.email "usn@msrit.edu`
