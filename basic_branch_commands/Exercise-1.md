@@ -3,70 +3,16 @@
 ## Setup
 
 1. Create a new repository. Add a readme file.
-
 2. Edit the readme file and commit changes.
-
 3. Create a local repository in local path
-
 4. Create a Folder "Test1" in local path for local repository.
-
-5. Type --> git init  --> to initialize the local repository.
-
+5. Type --> `git init`  --> to initialize the local repository.
 6. The .git folder will be created.
-
 7. To link local reporsitory and github repository type
       git git p "<<github repository url>>"
-
-8. Type git pull origin main (Important to see the correct branch name).
-
-9. To see all the files added to index type --> git status
-
-12. To add the file type --> git add <file name>
-
-19. To create a new branch from main branch type
-git branch firstbranch
-
-20. To move to another branch type
-git checkout firstbranch
-
-21. Add a new file. Type 
-git status
-
-22. Add the new file by typing
-git add newfile.txt
-
-23. Commit the new file to the new branch by typing 
-git commit -m "Adding the new file to the first branch"
-
-
-To Show Merging
-
-24. Go to main branch
-git checkout main
-
-25. Merge the firstbranch files to main
-git merge firstbranch
-
-
-To Show Rebasing
-
-26. Go to firstbranch
-git checkout firstbranch
-
-27. Add new files and type some text
-
-28. Add the files to index by typing
-git add -A
-
-29. Commit the changes to the firstbranch
-git commit -a -m "Adding files for rebasing"
-
-30. git rebase main
-
-31. git checkout main
-
-32. git rebase firstbranch
-
+8. Type `git pull origin main` (Important to see the correct branch name).
+9. To see all the files added to index type -->` git status`
+10. To add the file type --> `git add <file name>`
 
 ## The task
 
