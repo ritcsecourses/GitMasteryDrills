@@ -1,5 +1,5 @@
 ## Readme 
-# Basic Commits
+# Basic Commands
 This  will introduce you to the git add and git commit commands.
 
 You can look at the bottom of this file, if you have not yet done basic git configuration.
